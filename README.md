@@ -130,3 +130,10 @@ Open the notebook in your browser and run each cell sequentially to execute the 
 
 **Output:**
 `./media/{pdf_name}_output/` — processed images, ready for OCR.
+
+# ⚠️ Important: Google Vision OCR Accuracy & Human Verification
+
+## Accuracy Notice
+
+While **Google Cloud Vision API demonstrates exceptionally high accuracy for Arabic text recognition** (often exceeding 95% for clear, printed documents), **human verification is absolutely essential** before finalizing any extracted content. 
+
